@@ -1,0 +1,8 @@
+[{
+  "_id": "25",
+  "user_name": "dinni",
+  "role": "admin",
+  "email_id": "satharudinesh212@gmail.com",
+  "user_phone_number": "8978804227",
+  "_class": "com.example.demo.model.User"
+}]
